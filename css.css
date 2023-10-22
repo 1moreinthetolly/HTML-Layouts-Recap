@@ -8,6 +8,9 @@ span {
   border: 1px solid darkgray;
 } 
 
+body{
+  text-align:center
+}
 #one {
   background-color:lightblue;
   width: 150px;
@@ -44,4 +47,9 @@ span {
 
 #text span {
   background-color: white;
+}
+
+#mini-layout img{
+  width:100px;
+  height:100px;
 }
